@@ -50,4 +50,8 @@ docker run -p 5000:5000 -v donnees:/data gogo-school
 ## Déploiement
 
 - Image Docker Hub : https://hub.docker.com/r/gam1soc/gogo-school
-- Application en ligne : http://IP_PUBLIQUE
+- Application en ligne : http://13.60.184.99
+
+## Équipe
+
+- Gogo Ange Michel 
